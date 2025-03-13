@@ -1,5 +1,5 @@
 
-# ** 🚀O que é Teste de Software? 🚀**  
+# 🚀 ** O que é Teste de Software?  **  🚀
 
 Teste de software é o processo de verificar se um sistema atende aos requisitos especificados e se funciona corretamente antes de ser lançado para os usuários. O objetivo é identificar falhas, melhorar a qualidade do software e garantir que ele opere de maneira confiável e segura.  
 
