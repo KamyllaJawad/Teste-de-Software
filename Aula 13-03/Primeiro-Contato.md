@@ -1,6 +1,3 @@
-Ótimo! Aqui está uma versão um pouco mais desafiadora da atividade, mantendo o foco na introdução ao teste de software, mas exigindo um pouco mais de pesquisa e análise dos alunos.  
-
----
 
 ### **Atividade: Explorando o Teste de Software**  
 📌 **Objetivo**: Introduzir o conceito de teste de software, sua importância e seus tipos, incentivando a pesquisa, análise e aplicação prática.  
