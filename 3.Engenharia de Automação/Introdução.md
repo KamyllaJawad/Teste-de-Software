@@ -1,7 +1,3 @@
-Claro! Vou te ensinar de forma didática e simples o que é **Engenharia de Automação de Testes**. Vamos começar do básico e avançar gradualmente, com exemplos práticos para facilitar o entendimento.
-
----
-
 ## **1. O que é Engenharia de Automação de Testes?**
 
 A **Engenharia de Automação de Testes** é uma área da engenharia de software que foca em **automatizar** a execução de testes, ou seja, usar ferramentas e scripts para realizar testes de forma rápida, eficiente e repetitiva, sem a necessidade de intervenção manual.
