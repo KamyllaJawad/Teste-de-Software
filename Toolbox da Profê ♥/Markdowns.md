@@ -94,11 +94,13 @@ Para incluir código, use três crases (\`\`\`) e especifique a linguagem:
 ```markdown
 ```javascript
 console.log("Olá, mundo!");
+#```
 ```
 
 
+```
+```
 🔹 **Saída:**
-
 ```javascript
 console.log("Olá, mundo!");
 ```
