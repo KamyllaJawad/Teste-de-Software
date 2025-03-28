@@ -95,8 +95,10 @@ Para incluir código, use três crases (\`\`\`) e especifique a linguagem:
 ```javascript
 console.log("Olá, mundo!");
 ```
-```
+
+
 🔹 **Saída:**
+
 ```javascript
 console.log("Olá, mundo!");
 ```
