@@ -20,6 +20,8 @@
    🔹 Focado em como lidar com código legado e melhorá-lo sem quebrar funcionalidades.
 
 ### 📝 **Artigos e Blogs**
+
+- **"A Importância do Código Limpo por Robert C. Martin — Clean Code: A Handbook of Agile Software Craftsmanship"** (https://medium.com/@abdel.jawad987/a-import%C3%A2ncia-do-c%C3%B3digo-limpo-por-robert-c-50ff39f066a0) – Artigo sobre a importância do código limpo. 
 - **"The Twelve-Factor App"** (https://12factor.net/) – Guia sobre boas práticas para desenvolvimento de software na nuvem.  
 - **"SOLID Principles Explained in Plain English"** – Vários artigos online explicam os princípios SOLID de código limpo.  
 - **"Martin Fowler’s Blog"** (https://martinfowler.com/) – Blog do autor de *Refactoring*, com ótimos artigos sobre boas práticas de código e arquitetura.  
@@ -56,8 +58,7 @@
 
 
 ### 📝 **Artigos e Blogs**
--  **"A Importância do Código Limpo por Robert C. Martin — Clean Code: A Handbook of Agile Software Craftsmanship"** (https://medium.com/@abdel.jawad987/a-import%C3%A2ncia-do-c%C3%B3digo-limpo-por-robert-c-50ff39f066a0) – Artigo sobre a importância do código limpo. 
--  **The Significance of Software Testing: From Development to Customer Delivery** (https://medium.com/@abdel.jawad987/the-significance-of-software-testing-from-development-to-customer-delivery-a51e98b89927) - Artigo sobre a importância dos testes de software.
+- **The Significance of Software Testing: From Development to Customer Delivery** (https://medium.com/@abdel.jawad987/the-significance-of-software-testing-from-development-to-customer-delivery-a51e98b89927) - Artigo sobre a importância dos testes de software.
 - **"ISTQB Glossary"** (https://glossary.istqb.org/) – Referência oficial do ISTQB com termos e conceitos essenciais.  
 - **"Ministry of Testing"** (https://www.ministryoftesting.com/) – Comunidade ativa com artigos, cursos e eventos sobre testes.  
 - **"Software Testing Help"** (https://www.softwaretestinghelp.com/) – Blog com guias práticos sobre diversos tipos de testes.  

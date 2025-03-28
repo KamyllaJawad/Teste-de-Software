@@ -1,202 +1,90 @@
+# Plano de Unidade Curricular - Testes de Sistemas
 
-# 🚀 O que é Teste de Software?   🚀
-
-Teste de software é o processo de verificar se um sistema atende aos requisitos especificados e se funciona corretamente antes de ser lançado para os usuários. O objetivo é identificar falhas, melhorar a qualidade do software e garantir que ele opere de maneira confiável e segura.  
-
-### **Por que testar software?**  
-- **Evitar falhas** que podem causar prejuízos financeiros ou riscos à segurança.  
-- **Melhorar a experiência do usuário**, garantindo que o sistema funcione sem problemas.  
-- **Reduzir custos**, pois corrigir bugs antes do lançamento é mais barato do que depois.  
+Este documento descreve os blocos de ensino da Unidade Curricular (UC) de Testes de Sistemas, detalhando os principais conteúdos abordados em cada etapa, alinhados às capacidades básicas da UC.
 
 ---
 
-## **1️⃣ Fundamentos de Teste**  
+## 📌 Bloco 1 – Introdução aos Testes de Sistemas  
+Neste bloco, os alunos serão introduzidos ao universo dos testes de sistemas, compreendendo sua importância e papel no desenvolvimento de software. Os principais tópicos abordados incluem:  
+- Conceito e objetivos dos testes de software  
+- Tipos e funções dos testes  
+- Normas, métodos e técnicas de testes  
+- Importância da detecção de falhas no ciclo de vida do software  
 
-O teste de software pode ser classificado de várias formas, dependendo da abordagem utilizada e do que está sendo testado.  
-
-### **✅ Teste Manual**  
-O **teste manual** é aquele realizado sem ferramentas automatizadas. O testador executa manualmente cada funcionalidade do sistema e verifica se tudo funciona corretamente.  
-
-📌 **Exemplo:** Um testador abre um site de e-commerce, adiciona um produto ao carrinho, realiza o checkout e verifica se o pedido foi processado corretamente.  
-
-🔹 **Vantagens:**  
-- Não requer conhecimento em programação.  
-- Permite avaliar a experiência do usuário.  
-
-🔹 **Desvantagens:**  
-- Pode ser **demorado** e **sujeito a erros humanos**.  
-- Não é eficiente para testes repetitivos.  
+✏ **Capacidades trabalhadas:**  
+✅ Identificar tipos, função, ferramentas e plano de teste de acordo com a programação de sistemas  
+✅ Reconhecer normas, métodos e técnicas de testes para correção  
 
 ---
 
-### **✅ Teste Automatizado**  
-O **teste automatizado** utiliza scripts e ferramentas para testar o software de forma programada. Ele permite rodar os mesmos testes repetidamente, garantindo rapidez e precisão.  
+## 📌 Bloco 2 – Planejamento e Execução de Testes  
+Aqui, os alunos aprenderão como planejar e executar testes de software, organizando o ambiente e definindo critérios para validação de sistemas. Os tópicos incluem:  
+- Planejamento e definição de estratégias de teste  
+- Organização do ambiente de testes  
+- Criação de roteiros e casos de testes  
+- Execução de testes conforme recomendações técnicas  
 
-📌 **Exemplo:** Um script verifica automaticamente se a funcionalidade de login funciona corretamente sempre que há uma atualização no sistema.  
-
-🔹 **Vantagens:**  
-- Rapidez e eficiência na execução dos testes.  
-- Evita falhas humanas.  
-
-🔹 **Desvantagens:**  
-- Requer conhecimento técnico para programar os testes.  
-- Pode ser mais **custoso** no início.  
-
----
-
-### **✅ Teste de Caixa Branca**  
-O **teste de caixa branca** verifica a estrutura interna do código. O testador precisa conhecer a lógica do sistema para testar cada parte do código-fonte.  
-
-📌 **Exemplo:** Um programador analisa uma função e verifica se todas as condições e loops funcionam corretamente.  
-
-🔹 **Vantagens:**  
-- Identifica erros ocultos na lógica do código.  
-- Ajuda a otimizar o desempenho.  
-
-🔹 **Desvantagens:**  
-- Requer **acesso ao código-fonte** e conhecimento de programação.  
+✏ **Capacidades trabalhadas:**  
+✅ Analisar documentação de teste para planejamento da rotina  
+✅ Organizar o ambiente para o desenvolvimento das rotinas de testes  
+✅ Definir roteiro de teste para execução, conforme recomendações técnicas  
 
 ---
 
-### **✅ Teste de Caixa Preta**  
-No **teste de caixa preta**, o testador não tem acesso ao código-fonte e verifica apenas as entradas e saídas do sistema.  
+## 📌 Bloco 3 – Documentação e Análise de Resultados  
+O foco deste bloco é a documentação e análise dos resultados obtidos nos testes, garantindo que os erros sejam registrados e corrigidos adequadamente. Os principais pontos incluem:  
+- Ferramentas de documentação de testes  
+- Registro e interpretação dos resultados obtidos  
+- Análise de falhas e impactos no sistema  
 
-📌 **Exemplo:** Testar um formulário de login inserindo diferentes combinações de usuário e senha para verificar o comportamento do sistema.  
-
-🔹 **Vantagens:**  
-- Pode ser realizado sem conhecimento técnico.  
-- Simula o comportamento do usuário final.  
-
-🔹 **Desvantagens:**  
-- Não verifica a estrutura interna do sistema, podendo deixar passar erros ocultos.  
+✏ **Capacidades trabalhadas:**  
+✅ Empregar ferramenta de documentação de teste para registro do resultado obtido  
+✅ Avaliar resultado obtido no teste  
 
 ---
 
-### **✅ Teste Unitário**  
-O **teste unitário** verifica **pequenas partes do código**, como funções e classes, garantindo que cada parte funcione corretamente de forma isolada.  
+## 📌 Bloco 4 – Automatização de Teste de Software  
+Aqui, os alunos serão introduzidos à automação de testes, compreendendo como ferramentas especializadas podem otimizar a execução e análise de testes de software. Os tópicos incluem:  
+- Conceito e benefícios da automação de testes  
+- Ferramentas de automação de testes  
+- Implementação de testes automatizados  
+- Comparação entre testes manuais e automatizados  
 
-📌 **Exemplo:** Testar uma função que calcula o preço total de uma compra para verificar se retorna o valor correto.  
-
-🔹 **Vantagens:**  
-- Detecta erros logo no início do desenvolvimento.  
-- Facilita a manutenção do código.  
-
-🔹 **Desvantagens:**  
-- Não garante que os módulos funcionem bem juntos.  
-
----
-
-### **✅ Teste de Integração**  
-O **teste de integração** verifica se os diferentes módulos do software funcionam corretamente **quando combinados**.  
-
-📌 **Exemplo:** Verificar se um sistema de pagamento recebe corretamente os dados do carrinho de compras.  
-
-🔹 **Vantagens:**  
-- Detecta falhas na comunicação entre componentes.  
-
-🔹 **Desvantagens:**  
-- Pode ser mais difícil de configurar do que testes unitários.  
+✏ **Capacidades trabalhadas:**  
+✅ Identificar tipos, função, ferramentas e plano de teste de acordo com a programação de sistemas  
+✅ Reconhecer normas, métodos e técnicas de testes para correção  
 
 ---
 
-### **✅ Teste de Sistema**  
-O **teste de sistema** avalia o software completo, testando todas as funcionalidades em conjunto.  
+## 📌 Bloco 5 – Situação de Aprendizagem: Aplicação Prática dos Testes de Sistemas  
+Neste bloco, os alunos aplicarão na prática os conhecimentos adquiridos nos blocos anteriores, realizando testes em um sistema real ou simulado. As atividades incluem:  
+- Planejamento e execução de testes em um sistema  
+- Identificação de problemas e falhas  
+- Aplicação de soluções para correção de falhas  
+- Documentação e análise dos resultados  
 
-📌 **Exemplo:** Testar um aplicativo de banco simulando depósitos, transferências e pagamentos.  
-
-🔹 **Vantagens:**  
-- Garante que o sistema funciona corretamente antes do lançamento.  
-
-🔹 **Desvantagens:**  
-- Pode ser **demorado** e **complexo**.  
-
----
-
-### **✅ Teste de Aceitação**  
-O **teste de aceitação** verifica se o software atende às expectativas do cliente e está pronto para uso.  
-
-📌 **Exemplo:** Um grupo de usuários testa um novo aplicativo de delivery para avaliar sua usabilidade antes do lançamento.  
-
-🔹 **Vantagens:**  
-- Garante que o software atende às necessidades reais do usuário.  
-
-🔹 **Desvantagens:**  
-- Pode ser subjetivo, pois depende da opinião dos usuários.  
+✏ **Capacidades trabalhadas:**  
+✅ Todas as capacidades básicas da UC
 
 ---
 
-## **2️⃣ Ferramentas de Teste**  
+## 📌 Bloco 6 – Prova Objetiva  
+A avaliação final será composta por uma prova objetiva para verificar o entendimento dos conceitos abordados ao longo da UC. A prova contemplará:  
+- Questões sobre os diferentes tipos e funções dos testes  
+- Planejamento e documentação de testes  
+- Análise e interpretação de resultados  
+- Conceitos de automação e boas práticas de testes  
 
-### **✅ Ferramentas para Teste Automatizado:**  
-- **Selenium** → Teste de aplicações web.  
-- **Cypress** → Teste de interface para aplicações modernas.  
-- **Appium** → Teste de aplicativos móveis.  
-- **JUnit** → Teste unitário para Java.  
-- **Jest** → Teste unitário para JavaScript.  
-- **Postman** → Teste de APIs.  
-
----
-
-## **3️⃣ Metodologias e Processos**  
-
-### **✅ TDD (Test-Driven Development)**  
-O código só é escrito **depois** que o teste falha.  
-
-📌 **Exemplo:** Criar um teste para verificar se `soma(2,2)` retorna `4` antes de implementar a função `soma()`.  
+✏ **Capacidades trabalhadas:**  
+✅ Identificar problemas de sistemas por meio de aplicação de teste  
+✅ Identificar possível solução para correção de falhas de acordo com a metodologia de teste  
+✅ Avaliar resultado obtido no teste  
+  
 
 ---
 
-### **✅ BDD (Behavior-Driven Development)**  
-Foca no comportamento do software, usando linguagem acessível.  
+Este plano de ensino garante que os alunos desenvolvam as competências necessárias para atuar na área de testes de software, alinhando teoria e prática para um aprendizado completo.
 
-📌 **Exemplo:** "Dado que um usuário insere uma senha errada, então ele recebe uma mensagem de erro."  
-
----
-
-### **✅ CI/CD (Continuous Integration/Continuous Deployment)**  
-Automatiza testes e lançamentos frequentes do software.  
-
-📌 **Exemplo:** Um servidor roda testes automaticamente sempre que um desenvolvedor faz uma alteração no código.  
-
----
-
-### **✅ DevOps**  
-Integra desenvolvimento e operações para garantir entregas contínuas e seguras.  
-
----
-
-## **4️⃣ Gerenciamento de Testes**  
-
-### **✅ Estratégias e Planos de Teste**  
-Definem **o que será testado**, **como**, **quando** e **por quem**.  
-📌 **Exemplo**: Criar um plano para testar um site antes do lançamento.  
-
----
-
-### **✅ Cobertura de Código**  
-Mede **quantos por cento do código** foi validado por testes.  
-
----
-
-### **✅ Rastreamento de Bugs**  
-Usamos ferramentas como **Jira** ou **Trello** para registrar e corrigir erros.  
-
----
-
-## **5️⃣ Testes de Performance e Segurança**  
-
-### **✅ Teste de Performance**  
-Verifica se o sistema suporta grandes quantidades de usuários e dados.  
-
-📌 **Ferramenta:** **JMeter**  
-📌 **Exemplo**: Usar o **JMeter** para simular 1.000 usuários acessando um site ao mesmo tempo.  
-
----
-
-### **✅ Teste de Segurança**  
-Identifica vulnerabilidades e protege contra ataques cibernéticos.  
-
-📌 **Ferramenta:** **OWASP ZAP**  
-
-🔹 **Análise de vulnerabilidades** – Descobrir falhas antes que hackers explorem o sistema.  
-
+📌 **Versão:** 1.0  
+📅 **Data de criação:** 11/02/2025  
+👨‍🏫 **Elaborado por:** Kamylla Jawad
