@@ -1,26 +1,15 @@
-# Situação de Aprendizagem
+# 🧩 **Situação de Aprendizagem – Projeto de Automação de Testes com Documentação e Apresentação**
 
 
-## Contextualização:
-A Tech Solutions, especializada em sistemas web para pequenas e médias empresas, está prestes a lançar um novo software de gestão financeira. Porém, a equipe de testes enfrenta problemas: falta um roteiro estruturado, o ambiente de testes não está configurado corretamente e há falhas na documentação das versões entregues pelos desenvolvedores, gerando retrabalho e atrasos. Para garantir um lançamento de qualidade, a empresa busca um profissional qualificado para organizar os testes, estruturar um plano e documentar os resultados.
 
-## Desafio:
-Você foi contratado como testador de software na Tech Solutions e recebeu a missão de estruturar e executar testes no sistema web de gestão financeira. Para isso, você deve:
+## **📘 Contextualização**
+O mercado de tecnologia exige sistemas confiáveis, seguros e de alta performance. Para isso, as equipes de desenvolvimento utilizam automação de testes como uma estratégia para garantir a qualidade contínua do software. Você, como estudante de Desenvolvimento de Sistemas, foi desafiado a simular um ambiente real de trabalho: automatizar testes, planejar estratégias, documentar e apresentar seus resultados de forma profissional e alinhada às normas do setor.
 
-- Configurar o ambiente de testes corretamente.
-- Elaborar um plano de testes, incluindo o roteiro detalhado das verificações a serem realizadas.
-- Executar testes funcionais no sistema, identificando possíveis falhas.
-- Classificar as falhas encontradas e propor planos de ação.
-- Documentar os testes realizados de forma clara e objetiva, utilizando uma ferramenta adequada.
+## **🎯 Desafio**
+Em equipes, os alunos deverão escolher um sistema real ou simulado, definir um plano de testes, **automatizar** sua execução com uma ferramenta apropriada (Selenium, Pytest, Cypress, etc.), **documentar todo o processo conforme as normas ISO/IEC 29119** e **apresentar os resultados do projeto para a turma**, explicando falhas, soluções e aprendizados.
 
-Ao final, você deverá apresentar um relatório técnico com os resultados dos testes, evidências das falhas encontradas (prints, logs, descrições detalhadas) e sugestões para correção dos problemas.
 
-## Resultados Esperados:
+### ✅ **Resultados Esperados**
 
-1. Aplicou organização do ambiente para o desenvolvimento das rotinas de testes?
-2. Criou um plano de testes coerente e alinhado com as boas práticas?
-3. Executou os testes seguindo o roteiro definido?	
-4. Identificou corretamente falhas no sistema?
-5. Classificou as falhas encontradas e propôs planos de ação adequados?
-6. Documentou os testes de forma clara e detalhada, utilizando a ferramenta apropriada?
-7. Apresentou um relatório técnico estruturado com evidências e sugestões de melhoria?
+Entrega de um projeto de automação de testes com roteiro, execução em ferramenta apropriada, documentação técnica conforme norma e apresentação final com análise de falhas e soluções.
+
