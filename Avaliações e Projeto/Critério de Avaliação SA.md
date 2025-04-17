@@ -6,7 +6,7 @@
 | Nº | Critério de Desempenho Avaliado | Sim | Parcial | Não | Observações |
 |----|----------------------------------|-----|---------|-----|-------------|
 | 1 | Identificou diferentes tipos, funções e ferramentas de teste de software, relacionando-as ao sistema testado? | ☐ | ☐ | ☐ |  |
-| 2 | Reconheceu normas e boas práticas aplicáveis à documentação de testes (ex.: ISO/IEC 29119, CTFL)? | ☐ | ☐ | ☐ |  |
+| 2 | Reconheceu normas e boas práticas aplicáveis à documentação de testes (ex.: ISO/IEC 29119)? | ☐ | ☐ | ☐ |  |
 | 3 | Definiu um roteiro de testes coerente com os requisitos e as recomendações técnicas? | ☐ | ☐ | ☐ |  |
 | 4 | Organizou corretamente o ambiente de execução dos testes automatizados? | ☐ | ☐ | ☐ |  |
 | 5 | Empregou ferramentas de automação e documentação de testes adequadas ao projeto? | ☐ | ☐ | ☐ |  |
@@ -16,7 +16,7 @@
 | 9 | Documentou os defeitos com clareza e estrutura técnica adequada (bug report, relatório final)? | ☐ | ☐ | ☐ |  |
 | 10 | Apresentou o projeto com clareza técnica, explicando o processo, ferramentas e soluções aplicadas? | ☐ | ☐ | ☐ |  |
 
----
+
 
 ### 🔎 **Legenda**:
 - **Sim**: Atendeu plenamente ao critério.  
