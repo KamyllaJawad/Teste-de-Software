@@ -25,7 +25,8 @@ Acessem o GitHub da professora Kamylla para apoio a pesquisa:
 
 1. Naveguem pelos repositórios públicos.
 2. Escolham um exemplo com **Cypress, Selenium, Robot Framework, Postman ou afins**.
-3. Mostrem como os testes estão organizados e como o exemplo ajuda a entender o funcionamento da ferramenta.
+3. Mostrem como os testes estão organizados e como o exemplo (pode ser um vídeo da internet ou exemplo prático que entra na **questão do ponto extra**) ajuda a entender o funcionamento da ferramenta.
+4. 
 
 ---
 
