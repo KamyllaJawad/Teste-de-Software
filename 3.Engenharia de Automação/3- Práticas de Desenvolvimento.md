@@ -183,9 +183,6 @@ Scenario: Transferência bancária bem-sucedida
 
 ---
 
-Se quiser, posso te ajudar a montar isso em formato de **apresentação para aula (PowerPoint)** ou com exemplos práticos em repositório de **GitHub didático**. Deseja isso?
----
-
 ## 📦 **No fim, todos são formas de organizar e melhorar como desenvolvemos software.**
 
 Eles ajudam a responder perguntas como:
@@ -219,10 +216,6 @@ Cada um tem seu foco:
 - **TDD/ATDD/BDD/STDD** focam em **testes e validação**.
 - **DDD/FDD** focam em **design e organização de funcionalidades**.
 
-
-Perfeito! Aqui estão **10 livros clássicos e modernos** que você pode usar como **referência sólida e embasamento teórico** para sua aula sobre TDD, BDD, DDD, FDD, ATDD e STDD. Eles cobrem desde práticas de desenvolvimento ágil até testes, arquitetura e modelagem de domínio:
-
----
 
 # 📚 Refêrencias:
 
